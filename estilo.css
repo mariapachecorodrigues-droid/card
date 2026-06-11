@@ -5,3 +5,16 @@
 body{
     background-color: blue;
 }
+
+.cabeçalho {
+    padding: 15px 25px;
+}
+
+.cartao {
+    width: 268px;
+    height: 200px;
+}
+
+.cartao-imagem {
+    width: 100%;
+}
