@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: blue;
+    background-color: rgb(208, 96, 223);
 }
 
 .cabecalho {
@@ -11,7 +11,7 @@ padding: 15px 25px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-background-color: blueviolet;
+background-color: rgb(87, 16, 153);
 }
 
 .cartao {
@@ -27,8 +27,25 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: aqua;
 }
 
 main { 
   flex: 1; 
 } 
+
+cabecalho-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    color:#fff
+    font-size: 24px;
+}
+
+footer {
+    background-color: brown;
+    padding: 15px 25px;
+    color: #7498c2;;
+}
