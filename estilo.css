@@ -57,6 +57,7 @@ footer {
   position: relative; 
   transition: transform 0.8s;
   transform-style: preserve-3d;
+  color: white;
 } 
 
 .cartao-frente, 
